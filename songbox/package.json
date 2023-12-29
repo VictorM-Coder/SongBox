@@ -9,7 +9,8 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "prepare": "cd .. && husky install songbox/.husky",
-    "commit": "cz"
+    "commit": "cz",
+    "lint": "eslint . --ext .ts,.vue,js --ignore-path .gitignore --fix ."
   },
   "devDependencies": {
 

@@ -1,6 +1,9 @@
 <template>
   <div>
-    <p class="bg-purple-600 font-bold">aaaaaaaaaaaaaaaaaaaaaaa</p>
+    <p
+      class='bg-purple-600 font-bold'
+    >
+      aaaaaaaaaaaaaaaaaaaaaaa</p>
   </div>
 </template>
 
